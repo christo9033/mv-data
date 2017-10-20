@@ -11,7 +11,7 @@
 					"plat": [
 						{
 							"name": "salade landaise",
-							"dishRating": 7
+							"dishRating": 1
 						},
 						{
 							"name": "filet mignon en croute",
@@ -20,6 +20,9 @@
 						{
 							"name": "tiramisu spéculoos",
 							"dishRating": 8.5
+						},
+						{
+							"dishRating": 0
 						}
 					]
 				}
